@@ -4,3 +4,9 @@
     background-image: url("../assets/images/background.png");
     background-size: cover;
 }
+
+.fadeIn {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 40%));
+    width: 100vw;
+    height: 50vh;
+}
